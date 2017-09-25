@@ -1,0 +1,8 @@
+C:\MyDOC\Проекты\C#\Developer\MDBReader\MDBReader\bin\Debug\MDBReader.exe
+C:\MyDOC\Проекты\C#\Developer\MDBReader\MDBReader\bin\Debug\MDBReader.pdb
+C:\MyDOC\Проекты\C#\Developer\MDBReader\MDBReader\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\MDBReader\MDBReader\obj\Debug\MDBReader.MainForm.resources
+C:\MyDOC\Проекты\C#\Developer\MDBReader\MDBReader\obj\Debug\GenerateResource.read.1.tlog
+C:\MyDOC\Проекты\C#\Developer\MDBReader\MDBReader\obj\Debug\GenerateResource.write.1.tlog
+C:\MyDOC\Проекты\C#\Developer\MDBReader\MDBReader\obj\Debug\MDBReader.exe
+C:\MyDOC\Проекты\C#\Developer\MDBReader\MDBReader\obj\Debug\MDBReader.pdb
